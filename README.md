@@ -13,8 +13,9 @@
 ## 代码构建
 
 - `git clone` 本仓库
-- Visual Studio 2022 - Dynamic-Link Library(DLL)
+- Visual Studio 2022 - `Dynamic-Link Library(DLL)`
 - 项目右击`属性`
+    - Release x86
     - 常规->c++语言标准: `c++20`
     - C/C++->预编译头: `不使用预编译头`
 
